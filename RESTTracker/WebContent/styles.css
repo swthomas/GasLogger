@@ -1,0 +1,22 @@
+#gasTable {
+	border: 1px solid black;
+}
+
+#addBtn {
+	margin: auto;
+	text-align: center;
+}
+
+#report {
+	margin: auto;
+	text-align: center;
+}
+
+#reportHeader {
+	text-decoration: underline;
+}
+
+#createDiv {
+	margin: auto;
+	text-align: center;
+}
