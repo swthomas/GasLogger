@@ -15,4 +15,4 @@ GasLogger is a gas tracker that keeps record of your fill-ups and total mileage 
 - Send asynchronous request to Java controller with jQuery's AJAX
 
 ## Deployment
-http://swthomas.info:8080/PumprREST/
+http://swthomas.info:8080/GasLogger/
